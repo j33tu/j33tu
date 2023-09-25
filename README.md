@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @j33tu (Jitendra Singh)
-- 👀 I’m interested in ... Infrastructure Development, Infra as Code 
+- 👀 I’m interested in ... Infrastructure Development, Infra as Code / Data science
 - 🌱 I’m currently doing My Masters in Data Science 
 - 💞️ I’m looking to collaborate on ... Open Source Projects on Infrastructure Development / PowerShell Modules or ARM development
 - 📫 How to reach me ... jeetu12iu@gmail.com / https://wwww.jitendrasingh.net
